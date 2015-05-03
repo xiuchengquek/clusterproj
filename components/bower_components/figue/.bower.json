@@ -1,0 +1,14 @@
+{
+  "name": "figue",
+  "homepage": "https://github.com/xiuchengquek/figue",
+  "_release": "67423540bb",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "67423540bb9cf978ac53b20766de5374faf30a33"
+  },
+  "_source": "https://github.com/xiuchengquek/figue.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/xiuchengquek/figue.git",
+  "_direct": true
+}
